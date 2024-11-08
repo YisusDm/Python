@@ -1,0 +1,19 @@
+    UNIVERSIDAD DE LA COSTA
+       Proyecto de Aula
+	Diseño Gráfico
+	    2023-2
++----------------+------------+
+| Capa Espesor   |   Longitud |
++================+============+
+| Muro 15cm      |      44.1  |
++----------------+------------+
+| Muro 10cm      |      18.61 |
++----------------+------------+
+                VERSION - 11.13
+
+Grupo: 
+ANGULO HENRY 
+ESTRADA JUAN 
+MARQUEZ JESUS 
+MENDOZA ARTURO 
+VILLA BRANDON

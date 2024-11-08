@@ -1,0 +1,5 @@
+FRoja = int(input("Digite la cantidad de fichas rojas obtenidas: "))
+FAzul = int(input("Digite la cantidad de fichas azules obtenidas: "))
+FAmarilla = int(input("Digite la cantidad de fichas amarillas obtenidas: "))
+Puntos = (FRoja**3)+(FAzul*2)-(FAmarilla**2)
+print("Su puntaje total obtenido es: ",Puntos)

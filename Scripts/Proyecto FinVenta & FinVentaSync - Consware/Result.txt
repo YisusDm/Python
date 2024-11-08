@@ -1,0 +1,52 @@
+[
+  {
+    "CodigoEds": "101",
+    "IdTurno": 191355129,
+    "TramaID": 3,
+    "SectorVenta": 4102001731,
+    "Cara": 2,
+    "IdPosicion": 0,
+    "Volumen": 21.055,
+    "Precio": 0.95,
+    "TotalSurtidor": 20.0,
+    "LecturaInicial": 274184.8,
+    "LecturaFinal": 274205.844,
+    "FechaInicial": {
+      "ano": 2024,
+      "mes": 1,
+      "dia": 24,
+      "hora": 14,
+      "minuto": 20,
+      "segundo": 42
+    },
+    "fInicial": "null",
+    "FechaFin": {
+      "ano": 2024,
+      "mes": 1,
+      "dia": 24,
+      "hora": 14,
+      "minuto": 21,
+      "segundo": 57
+    },
+    "fFin": "null",
+    "IdVentaProgramada": 0,
+    "ROM": "9411001011FD0D81",
+    "Placa": "Pub-Gral",
+    "IdentificacionVendedor": "8091",
+    "FechaProximaRevision": null,
+    "Estado": 3,
+    "CodigoPosicion": 0,
+    "Recaudos": null,
+    "CodigoArticulo": "",
+    "NumeroDocumento": "1014102001731",
+    "TipoVenta": 1,
+    "IdVentaTI": 4102001731,
+    "IdVehiculoRecaudo": 0,
+    "IdCorteTV": 0,
+    "IdAutorizacion": 0,
+    "km": 0.0,
+    "Descuento": null,
+    "MediosPago": null,
+    "Descuentos": null
+  }
+]
