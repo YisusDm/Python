@@ -1,0 +1,10 @@
+{
+    "copied_files": [
+        "1.sql",
+        "2.json",
+        "3.txt"
+    ],
+    "failed_files": [],
+    "total_copied": 3,
+    "total_failed": 0
+}
