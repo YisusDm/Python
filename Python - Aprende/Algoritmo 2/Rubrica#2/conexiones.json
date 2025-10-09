@@ -1,0 +1,642 @@
+[
+    {
+        "origen": "Calle 1 con Carrera 1",
+        "destino": "Calle 1 con Carrera 2",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 1 con Carrera 2",
+        "destino": "Calle 1 con Carrera 3",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 1 con Carrera 3",
+        "destino": "Calle 1 con Carrera 4",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 1 con Carrera 4",
+        "destino": "Calle 1 con Carrera 5",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 1 con Carrera 5",
+        "destino": "Calle 1 con Carrera 6",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 1 con Carrera 6",
+        "destino": "Calle 1 con Carrera 7",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 1 con Carrera 7",
+        "destino": "Calle 1 con Carrera 8",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 2 con Carrera 1",
+        "destino": "Calle 2 con Carrera 2",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 2 con Carrera 2",
+        "destino": "Calle 2 con Carrera 3",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 2 con Carrera 3",
+        "destino": "Calle 2 con Carrera 4",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 2 con Carrera 4",
+        "destino": "Calle 2 con Carrera 5",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 2 con Carrera 5",
+        "destino": "Calle 2 con Carrera 6",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 2 con Carrera 6",
+        "destino": "Calle 2 con Carrera 7",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 2 con Carrera 7",
+        "destino": "Calle 2 con Carrera 8",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 3 con Carrera 1",
+        "destino": "Calle 3 con Carrera 2",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 3 con Carrera 2",
+        "destino": "Calle 3 con Carrera 3",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 3 con Carrera 3",
+        "destino": "Calle 3 con Carrera 4",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 3 con Carrera 4",
+        "destino": "Calle 3 con Carrera 5",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 3 con Carrera 5",
+        "destino": "Calle 3 con Carrera 6",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 3 con Carrera 6",
+        "destino": "Calle 3 con Carrera 7",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 3 con Carrera 7",
+        "destino": "Calle 3 con Carrera 8",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 4 con Carrera 1",
+        "destino": "Calle 4 con Carrera 2",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 4 con Carrera 2",
+        "destino": "Calle 4 con Carrera 3",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 4 con Carrera 3",
+        "destino": "Calle 4 con Carrera 4",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 4 con Carrera 4",
+        "destino": "Calle 4 con Carrera 5",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 4 con Carrera 5",
+        "destino": "Calle 4 con Carrera 6",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 4 con Carrera 6",
+        "destino": "Calle 4 con Carrera 7",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 4 con Carrera 7",
+        "destino": "Calle 4 con Carrera 8",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 5 con Carrera 1",
+        "destino": "Calle 5 con Carrera 2",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 5 con Carrera 2",
+        "destino": "Calle 5 con Carrera 3",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 5 con Carrera 3",
+        "destino": "Calle 5 con Carrera 4",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 5 con Carrera 4",
+        "destino": "Calle 5 con Carrera 5",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 5 con Carrera 5",
+        "destino": "Calle 5 con Carrera 6",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 5 con Carrera 6",
+        "destino": "Calle 5 con Carrera 7",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 5 con Carrera 7",
+        "destino": "Calle 5 con Carrera 8",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 6 con Carrera 1",
+        "destino": "Calle 6 con Carrera 2",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 6 con Carrera 2",
+        "destino": "Calle 6 con Carrera 3",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 6 con Carrera 3",
+        "destino": "Calle 6 con Carrera 4",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 6 con Carrera 4",
+        "destino": "Calle 6 con Carrera 5",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 6 con Carrera 5",
+        "destino": "Calle 6 con Carrera 6",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 6 con Carrera 6",
+        "destino": "Calle 6 con Carrera 7",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 6 con Carrera 7",
+        "destino": "Calle 6 con Carrera 8",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 7 con Carrera 1",
+        "destino": "Calle 7 con Carrera 2",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 7 con Carrera 2",
+        "destino": "Calle 7 con Carrera 3",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 7 con Carrera 3",
+        "destino": "Calle 7 con Carrera 4",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 7 con Carrera 4",
+        "destino": "Calle 7 con Carrera 5",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 7 con Carrera 5",
+        "destino": "Calle 7 con Carrera 6",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 7 con Carrera 6",
+        "destino": "Calle 7 con Carrera 7",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 7 con Carrera 7",
+        "destino": "Calle 7 con Carrera 8",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 8 con Carrera 1",
+        "destino": "Calle 8 con Carrera 2",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 8 con Carrera 2",
+        "destino": "Calle 8 con Carrera 3",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 8 con Carrera 3",
+        "destino": "Calle 8 con Carrera 4",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 8 con Carrera 4",
+        "destino": "Calle 8 con Carrera 5",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 8 con Carrera 5",
+        "destino": "Calle 8 con Carrera 6",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 8 con Carrera 6",
+        "destino": "Calle 8 con Carrera 7",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 8 con Carrera 7",
+        "destino": "Calle 8 con Carrera 8",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 1 con Carrera 1",
+        "destino": "Calle 2 con Carrera 1",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 2 con Carrera 1",
+        "destino": "Calle 3 con Carrera 1",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 3 con Carrera 1",
+        "destino": "Calle 4 con Carrera 1",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 4 con Carrera 1",
+        "destino": "Calle 5 con Carrera 1",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 5 con Carrera 1",
+        "destino": "Calle 6 con Carrera 1",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 6 con Carrera 1",
+        "destino": "Calle 7 con Carrera 1",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 7 con Carrera 1",
+        "destino": "Calle 8 con Carrera 1",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 1 con Carrera 2",
+        "destino": "Calle 2 con Carrera 2",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 2 con Carrera 2",
+        "destino": "Calle 3 con Carrera 2",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 3 con Carrera 2",
+        "destino": "Calle 4 con Carrera 2",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 4 con Carrera 2",
+        "destino": "Calle 5 con Carrera 2",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 5 con Carrera 2",
+        "destino": "Calle 6 con Carrera 2",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 6 con Carrera 2",
+        "destino": "Calle 7 con Carrera 2",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 7 con Carrera 2",
+        "destino": "Calle 8 con Carrera 2",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 1 con Carrera 3",
+        "destino": "Calle 2 con Carrera 3",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 2 con Carrera 3",
+        "destino": "Calle 3 con Carrera 3",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 3 con Carrera 3",
+        "destino": "Calle 4 con Carrera 3",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 4 con Carrera 3",
+        "destino": "Calle 5 con Carrera 3",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 5 con Carrera 3",
+        "destino": "Calle 6 con Carrera 3",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 6 con Carrera 3",
+        "destino": "Calle 7 con Carrera 3",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 7 con Carrera 3",
+        "destino": "Calle 8 con Carrera 3",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 1 con Carrera 4",
+        "destino": "Calle 2 con Carrera 4",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 2 con Carrera 4",
+        "destino": "Calle 3 con Carrera 4",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 3 con Carrera 4",
+        "destino": "Calle 4 con Carrera 4",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 4 con Carrera 4",
+        "destino": "Calle 5 con Carrera 4",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 5 con Carrera 4",
+        "destino": "Calle 6 con Carrera 4",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 6 con Carrera 4",
+        "destino": "Calle 7 con Carrera 4",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 7 con Carrera 4",
+        "destino": "Calle 8 con Carrera 4",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 1 con Carrera 5",
+        "destino": "Calle 2 con Carrera 5",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 2 con Carrera 5",
+        "destino": "Calle 3 con Carrera 5",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 3 con Carrera 5",
+        "destino": "Calle 4 con Carrera 5",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 4 con Carrera 5",
+        "destino": "Calle 5 con Carrera 5",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 5 con Carrera 5",
+        "destino": "Calle 6 con Carrera 5",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 6 con Carrera 5",
+        "destino": "Calle 7 con Carrera 5",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 7 con Carrera 5",
+        "destino": "Calle 8 con Carrera 5",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 1 con Carrera 6",
+        "destino": "Calle 2 con Carrera 6",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 2 con Carrera 6",
+        "destino": "Calle 3 con Carrera 6",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 3 con Carrera 6",
+        "destino": "Calle 4 con Carrera 6",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 4 con Carrera 6",
+        "destino": "Calle 5 con Carrera 6",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 5 con Carrera 6",
+        "destino": "Calle 6 con Carrera 6",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 6 con Carrera 6",
+        "destino": "Calle 7 con Carrera 6",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 7 con Carrera 6",
+        "destino": "Calle 8 con Carrera 6",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 1 con Carrera 7",
+        "destino": "Calle 2 con Carrera 7",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 2 con Carrera 7",
+        "destino": "Calle 3 con Carrera 7",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 3 con Carrera 7",
+        "destino": "Calle 4 con Carrera 7",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 4 con Carrera 7",
+        "destino": "Calle 5 con Carrera 7",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 5 con Carrera 7",
+        "destino": "Calle 6 con Carrera 7",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 6 con Carrera 7",
+        "destino": "Calle 7 con Carrera 7",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 7 con Carrera 7",
+        "destino": "Calle 8 con Carrera 7",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 1 con Carrera 8",
+        "destino": "Calle 2 con Carrera 8",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 2 con Carrera 8",
+        "destino": "Calle 3 con Carrera 8",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 3 con Carrera 8",
+        "destino": "Calle 4 con Carrera 8",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 4 con Carrera 8",
+        "destino": "Calle 5 con Carrera 8",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 5 con Carrera 8",
+        "destino": "Calle 6 con Carrera 8",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 6 con Carrera 8",
+        "destino": "Calle 7 con Carrera 8",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 7 con Carrera 8",
+        "destino": "Calle 8 con Carrera 8",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 6 con Carrera 4",
+        "destino": "Centro Comercial Buenavista",
+        "distancia": 2
+    },
+    {
+        "origen": "Calle 2 con Carrera 3",
+        "destino": "Hospital Metropolitano",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 5 con Carrera 7",
+        "destino": "El Corral",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 3 con Carrera 6",
+        "destino": "Juan Valdez",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 1 con Carrera 8",
+        "destino": "Universidad del Norte",
+        "distancia": 2
+    },
+    {
+        "origen": "Calle 4 con Carrera 4",
+        "destino": "Catedral Metropolitana",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 7 con Carrera 3",
+        "destino": "Estación de Policía",
+        "distancia": 2
+    },
+    {
+        "origen": "Calle 8 con Carrera 8",
+        "destino": "Terminal de Transporte",
+        "distancia": 2
+    },
+    {
+        "origen": "Calle 2 con Carrera 7",
+        "destino": "Éxito San Vicente",
+        "distancia": 2
+    },
+    {
+        "origen": "Calle 5 con Carrera 2",
+        "destino": "Parque Sagrado Corazón",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 6 con Carrera 6",
+        "destino": "Pizza Loca",
+        "distancia": 2
+    },
+    {
+        "origen": "Calle 3 con Carrera 2",
+        "destino": "Clínica Portoazul",
+        "distancia": 2
+    },
+    {
+        "origen": "Calle 4 con Carrera 7",
+        "destino": "Centro Empresarial Green Towers",
+        "distancia": 1
+    },
+    {
+        "origen": "Calle 1 con Carrera 1",
+        "destino": "Pricesmart",
+        "distancia": 2
+    },
+    {
+        "origen": "Calle 7 con Carrera 6",
+        "destino": "Universidad Autónoma",
+        "distancia": 2
+    },
+    {
+        "origen": "Calle 6 con Carrera 1",
+        "destino": "Deli Repostería",
+        "distancia": 2
+    }
+]
