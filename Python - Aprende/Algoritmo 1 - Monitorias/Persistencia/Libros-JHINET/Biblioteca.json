@@ -1,0 +1,52 @@
+[
+    {
+        "titulo": "Cien a\u00f1os de soledad",
+        "autor": "Gabriel Garc\u00eda M\u00e1rquez",
+        "anio": 1967
+    },
+    {
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "anio": 1949
+    },
+    {
+        "titulo": "Don Quijote de la Mancha",
+        "autor": "Miguel de Cervantes",
+        "anio": 1605
+    },
+    {
+        "titulo": "Matar a un ruise\u00f1or",
+        "autor": "Harper Lee",
+        "anio": 1960
+    },
+    {
+        "titulo": "El gran Gatsby",
+        "autor": "F. Scott Fitzgerald",
+        "anio": 1925
+    },
+    {
+        "titulo": "Orgullo y prejuicio",
+        "autor": "Jane Austen",
+        "anio": 1813
+    },
+    {
+        "titulo": "El se\u00f1or de los anillos",
+        "autor": "J.R.R. Tolkien",
+        "anio": 1954
+    },
+    {
+        "titulo": "Crimen y castigo",
+        "autor": "Fi\u00f3dor Dostoyevski",
+        "anio": 1866
+    },
+    {
+        "titulo": "En busca del tiempo perdido",
+        "autor": "Marcel Proust",
+        "anio": 1913
+    },
+    {
+        "titulo": "Ulises",
+        "autor": "James Joyce",
+        "anio": 1922
+    }
+]
